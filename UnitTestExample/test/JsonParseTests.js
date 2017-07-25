@@ -1,0 +1,10 @@
+describe("passwordValidator", function() {
+    
+   describe(".validPassword(password)", function() {
+
+       it("should have min 8 chars length", function(){
+           
+           //Test Goes Here
+       });
+   });
+});
