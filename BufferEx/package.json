@@ -1,0 +1,15 @@
+{
+  "name": "bufferex",
+  "version": "1.0.0",
+  "description": "Buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Keyw",
+    "Buffer"
+  ],
+  "author": "Cyupy",
+  "license": "ISC"
+}
