@@ -2,7 +2,7 @@ console.log("Unit test example start");
 
 var myValidator = require("./modules/passwordValidator");
 
-var password = "Cyupy";
+var password = "test";
 var valid = myValidator.validPassword(password);
 
-console.log("Your passsword'" + validPassword + "' is : " + valid);
+console.log("Your passsword'" + password + "' is valid : " + valid);
